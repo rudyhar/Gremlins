@@ -1,0 +1,27 @@
+Gremlins AI 'G'
+- respawns when hit within 10 tiels radius
+- Hitting a wall with more than 1 possible direction means it will randomly chose a new direction to go
+- move at 1 pixel per frame
+- projectile speed 4 pixelas per frame
+
+powerups
+- spawn after 10 seconds of the level loading
+- map layout symbol I will make 'P'
+- tbd effect - increase area of effect or rapid fire (reduced cooldown)
+- effect respawns?
+- make 10 seconds?
+- sound effect and animation upon collection?
+- must work with all map types
+
+Win/lose conditions
+- retain lives between levels
+- upon loss of lives output screen with "Game over"
+- No more levels + player winning diplays screen "You win"
+
+Application
+- dimenmsion 720x720
+60 fps
+
+NEED TO DO
+- what PApplet does in tests
+
